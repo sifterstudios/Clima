@@ -1,16 +1,5 @@
-# clima
+# Clima
 
-A new Flutter project.
+Simple mobile app written in Flutter that gets the location of the device and shows the weather forecast through the [OpenWeather API](https://openweathermap.org/api).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Was a great introduction to working with both JSON and API's for me.
